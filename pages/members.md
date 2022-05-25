@@ -1,4 +1,4 @@
-### MEMBERS
+### Members
 
 **Titular Members**
 
