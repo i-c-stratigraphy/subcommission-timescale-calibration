@@ -3,7 +3,6 @@ layout: page
 title: "Officers"
 permalink: /officers
 ---
-
 The Subcommission is organized by an Executive consisting of Chair, Vice-Chair and Secretary, who are all Voting Members of the Subcommission. These officers were appointed by ICS in 2020. 
 
 ### Chair
