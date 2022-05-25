@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Members"
+permalink: /members
+---
+
 ### Members
 
 **Titular Members**
