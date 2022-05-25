@@ -4,6 +4,7 @@ title: "Members"
 permalink: /members
 ---
 
+
 ### MEMBERS
 
 **Titular Members**
@@ -37,6 +38,7 @@ julie.fosdick@uconn.edu
 
 Linda Hinnov – George Mason University, USA (Astrochronology)
 lindahinnov@gmail.com
+
 Melanie Hopkins – American Museum of Natural History, USA (Paleontology/Paleobiology)
 mhopkins@amnh.org
 
