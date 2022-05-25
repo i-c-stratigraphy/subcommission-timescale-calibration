@@ -9,17 +9,17 @@ The Subcommission is organized by an Executive consisting of Chair, Vice-Chair a
 ### Chair
 **Bradley D. Cramer**  
 _Associate Professor_  
-Department of Earth & Environmental Sciences
-University of Iowa
-Iowa City, Iowa 52242, USA
+Department of Earth & Environmental Sciences    
+University of Iowa    
+Iowa City, Iowa 52242, USA    
 E-mail: <bradley-cramer@uiowa.edu>  
 
 ### Vice-Chair
 **Mark D. Schmitz**  
 _Professor_  
-Department of Geosciences
-Boise State University
-Boise, Idaho, 83725, USA
+Department of Geosciences   
+Boise State University    
+Boise, Idaho 83725, USA   
 E-mail: <markschmitz@boisestate.edu> 
 
 ### Secretary
