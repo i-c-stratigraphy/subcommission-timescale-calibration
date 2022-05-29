@@ -156,30 +156,9 @@
             background-color: Transparent; 
             cursor: pointer;
         }
-    </style>
-    <script>
-        var x = Math.floor(Math.random() * 6) ;
-        var banners = [
-            "images/banner.jpg",
-        ];
-
-        function displayNextImage() {
-            x = (x === banners.length - 1) ? 0 : x + 1;
-            document.getElementById("banner-img").src = banners[x];
-        }
-
-        function displayPreviousImage() {
-            x = (x <= 0) ? banners.length - 1 : x - 1;
-            document.getElementById("banner-img").src = banners[x];
-        }
-
-        function startTimer() {
-            displayNextImage();
-            setInterval(displayNextImage, 5000);
-        }    
-    </script>    
+    </style>   
 </head>
-<body onload="startTimer()">
+<body>
     <div id="widther">
         <div id="header">
             <div style="text-align:right;">
