@@ -192,11 +192,11 @@
             </div>
         </div>
         <div id="banner">
-            <img src="images/banner.png" style="width:100%;" />
-            <!-- 
-            <button type="button" class="banner" onclick="displayPreviousImage()" style="float:left;">&lt;Previous</button>
-            <button type="button" class="banner" onclick="displayNextImage()" style="float:right;">Next &gt;</button>
-            -->
+            {% if page.url == '/cyclostratigraphy' %}
+            <img src="images/banner-02.png" />
+            {% else %}
+            <img src="images/banner.png" />
+            {% endif %}
         </div>
         <div id="body-grid">
             <div id="sidebar" style="grid-column: 1;">
