@@ -171,12 +171,14 @@
             </div>
         </div>
         <div id="banner">
-            {% if page.url == '/members' %}
-            <img src="images/banner-03-l.png" />            
+            {% if page.url == '/officers' %}
+            <img src="images/banner-04.png" /> 
+            {% elsif page.url == '/members' %}
+            <img src="images/banner-03.png" />            
             {% elsif page.url == '/cyclostratigraphy' %}
-            <img src="images/banner-02-l.png" />
+            <img src="images/banner-02.png" />
             {% else %}
-            <img src="images/banner-01-l.png" />
+            <img src="images/banner-05.png" />
             {% endif %}
         </div>
         <div id="body-grid">
