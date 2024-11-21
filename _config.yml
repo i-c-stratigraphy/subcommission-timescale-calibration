@@ -22,7 +22,7 @@ title: Subcommission on Timescale Calibration
 email: nick@kurrawong.net
 description: >- # this means to ignore newlines until "baseurl:"
   The Subcommission is the primary body for the calibration of timescale information within the International Commission on Stratigraphy.
-baseurl: "/subcommission-timescale-calibration" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
